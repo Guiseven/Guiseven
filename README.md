@@ -1,7 +1,7 @@
 ### Hi there 👋
 Jessica Freitas16:12readmeText<h1 align="left">Hi 👋, I'm Guilherme</h1>
 <h3 align="left">A passionate backend developer from Brazil, I love share knowledge.</h3>
-- 🔭 Software Developer Backend at **Globo**
+- 🔭 Software Developer Front-end Open to work
 - 🌱 I’m currently learning **SCSS,Javascript,SQL**
 - 👯 I’m looking to collaborate on HTML,CSS,JAVASCRIPT and REACT, Unit Test, Software Architecture, Design Patterns, Clean Code**
 - 🤝 I’m looking for help with **jAVASCRIPT**
@@ -11,7 +11,7 @@ Jessica Freitas16:12readmeText<h1 align="left">Hi 👋, I'm Guilherme</h1>
 - 📄 Know about my experiences **2 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development**
 - ⚡ Fun fact **I am passionate for **
 <h3 align="left">Articles</h3><br />
-📕  Latest Blog Posts.
+
 
 
 <h3 align="left">Connect with me:</h3><br />
