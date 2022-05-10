@@ -2,27 +2,27 @@
 Jessica Freitas16:12readmeText<h1 align="left">Hi 👋, I'm Guilherme</h1>
 <h3 align="left">A passionate backend developer from Brazil, I love share knowledge.</h3>
 - 🔭 Software Developer Backend at **Globo**
-- 🌱 I’m currently learning **Python, MongoDB, Redis,Linux and AWS**
-- 👯 I’m looking to collaborate on **C#, .NET Framework, Unit Test, Software Architecture, Design Patterns, Clean Code and API**
-- 🤝 I’m looking for help with **Python**
+- 🌱 I’m currently learning **SCSS,Javascript,SQL**
+- 👯 I’m looking to collaborate on HTML,CSS,JAVASCRIPT and REACT, Unit Test, Software Architecture, Design Patterns, Clean Code**
+- 🤝 I’m looking for help with **jAVASCRIPT**
 - 👨‍💻 All of my projects are available at [Github](Github)
-- 💬 Ask me about **C#, Software Architecture, Clean Code, Design Patterns, platform .NET and Web Applications, Career etc**
-- 📫 How to reach me **jessicanathany.web@gmail.com**
-- 📄 Know about my experiences **8 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development**
-- ⚡ Fun fact **I am passionate for extreme sport and adventure**
+- 💬 Ask me about, Software Architecture, Clean Code, Design Patterns,  Web Applications, Career etc**
+- 📫 How to reach me **guilherme.mocav@gmail.com**
+- 📄 Know about my experiences **2 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development**
+- ⚡ Fun fact **I am passionate for **
 <h3 align="left">Articles</h3><br />
 📕  Latest Blog Posts.
-- [DEV](https://dev.to/jessicanathany/) ✍🏼 - I'm write about many things and some technologies.
-- [Website](https://cafedebug.com.br/) 💻 - Working on it my technology podcast. <br />
+
+
 <h3 align="left">Connect with me:</h3><br />
 <p align="left">
-<a href="https://dev.to/https://medium.com/@jessicanathanyf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://medium.com/@jessicanathanyf" height="30" width="40" /></a>
-<a href="https://twitter.com/@jessicanathanyf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jessicanathanyf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jessicanathany-softwaredeveloper/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessicanathany-softwaredeveloper/?locale=en_us" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/7711409/j%c3%a9ssica-nathany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7711409/j%c3%a9ssica-nathany" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jnathanycarvalho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jnathanycarvalho/" height="30" width="40" /></a>
-<a href="https://medium.com/@jessicanathanyf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jessicanathanyf" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jnathany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jnathany" height="30" width="40" /></a>
+
+<a href="https://mobile.twitter.com/_GUIS3V3N_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jGUIS3VEN" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/guilherme-moreira-22694a171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilherme-moreira-22694a171/" height="30" width="40" /></a>
+<a href="COLOCAR O MEU AQUI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="COLOCAR O MEU" height="30" width="40" /></a>
+<a href="COLOCAR O MEU " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="COLOCAR O MEU" height="30" width="40" /></a>
+<a href="COLOCAR O MEU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@GUIS3VEN" height="30" width="40" /></a>
+<a href="COLOCAR O MEU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="MEU " height="30" width="40" /></a>
 <a href="https://discord.gg/Jéssica Nathany#5931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jéssica Nathany#5931" height="30" width="40" /></a>
 </p><br />
 <h3 align="left">Languages and Tools:</h3><br />
