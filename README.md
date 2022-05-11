@@ -1,6 +1,6 @@
 ### Hi there 👋
-Jessica Freitas16:12readmeText<h1 align="left">Hi 👋, I'm Guilherme</h1>
-<h3 align="left">A passionate backend developer from Brazil, I love share knowledge.</h3>
+readmeText<h1 align="left">Hi 👋, I'm Guilherme</h1>
+<h3 align="left">A passionate Front-end developer from Brazil, I love share knowledge.</h3>
 - 🔭 Software Developer Front-end Open to work
 - 🌱 I’m currently learning **SCSS,Javascript,SQL**
 - 👯 I’m looking to collaborate on HTML,CSS,JAVASCRIPT and REACT, Unit Test, Software Architecture, Design Patterns, Clean Code**
