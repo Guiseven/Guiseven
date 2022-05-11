@@ -8,8 +8,8 @@ readmeText<h1 align="left">Hi 👋, I'm Guilherme</h1>
 - 👨‍💻 All of my projects are available at [Github](Github)
 - 💬 Ask me about, Software Architecture, Clean Code, Design Patterns,  Web Applications, Career etc**
 - 📫 How to reach me **guilherme.mocav@gmail.com**
-- 📄 Know about my experiences **2 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development**
-- ⚡ Fun fact **I am passionate for **
+- 📄 Know about my experiences **2 Years of software development front-end Platform.**
+- ⚡ Fun fact **I am passionate for Music **
 <h3 align="left">Articles</h3><br />
 
 
