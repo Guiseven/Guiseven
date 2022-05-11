@@ -1,6 +1,7 @@
 ### Hi there 👋
 readmeText<h1 align="left">Hi 👋, I'm Guilherme</h1>
 <h3 align="left">A passionate Front-end developer from Brazil, I love share knowledge.</h3>
+<ol>
 - 🔭 Software Developer Front-end Open to work
 - 🌱 I’m currently learning **SCSS,Javascript,SQL**
 - 👯 I’m looking to collaborate on HTML,CSS,JAVASCRIPT and REACT, Unit Test, Software Architecture, Design Patterns, Clean Code**
@@ -10,6 +11,7 @@ readmeText<h1 align="left">Hi 👋, I'm Guilherme</h1>
 - 📫 How to reach me **guilherme.mocav@gmail.com**
 - 📄 Know about my experiences **2 Years of software development front-end Platform.**
 - ⚡ Fun fact **I am passionate for Music **
+  <ol/>
 <h3 align="left">Articles</h3><br />
 
 
