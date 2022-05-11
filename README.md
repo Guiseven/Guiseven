@@ -2,15 +2,15 @@
 readmeText<h1 align="left">Hi 👋, I'm Guilherme</h1>
 <h3 align="left">A passionate Front-end developer from Brazil, I love share knowledge.</h3>
 
-1. 🔭 Software Developer Front-end Open to work
-2.🌱 I’m currently learning **SCSS,Javascript,SQL**
-3. 👯 I’m looking to collaborate on HTML,CSS,JAVASCRIPT and REACT, Unit Test, Software Architecture, Design Patterns, Clean Code**
-4.🤝 I’m looking for help with **jAVASCRIPT**
-5.👨‍💻 All of my projects are available at [Github](Github)
-6.💬 Ask me about, Software Architecture, Clean Code, Design Patterns,  Web Applications, Career etc**
-7.📫 How to reach me **guilherme.mocav@gmail.com**
-8. 📄 Know about my experiences **2 Years of software development front-end Platform.**
-9.⚡ Fun fact **I am passionate for Music **
+*  🔭 Software Developer Front-end Open to work
+* 🌱 I’m currently learning **SCSS,Javascript,SQL**
+*  👯 I’m looking to collaborate on HTML,CSS,JAVASCRIPT and REACT, Unit Test, Software Architecture, Design Patterns, Clean Code**
+* 🤝 I’m looking for help with **jAVASCRIPT**
+* 👨‍💻 All of my projects are available at [Github](Github)
+* 💬 Ask me about, Software Architecture, Clean Code, Design Patterns,  Web Applications, Career etc**
+* 📫 How to reach me **guilherme.mocav@gmail.com**
+* 📄 Know about my experiences **2 Years of software development front-end Platform.**
+* ⚡ Fun fact **I am passionate for Music **
   
 <h3 align="left">Articles</h3><br />
 
